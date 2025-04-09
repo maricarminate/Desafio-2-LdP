@@ -1,5 +1,6 @@
 // Desafio 2 - git add
 
+// calcula o saldo total de vitórias com base no número de vitórias e derrotas
 function rank(vitorias, derrotas) {
     let saldoVitorias = vitorias - derrotas;
     return saldoVitorias;
@@ -7,6 +8,7 @@ function rank(vitorias, derrotas) {
 
 let totalVitorias = rank(58, 15);
 
+//calcula o nível do jogador com base no número de total de vitórias
 
 function level(vitorias) {
     let nivel;
