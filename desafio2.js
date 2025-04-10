@@ -1,4 +1,4 @@
-// Desafio 2 - git add
+// Desafio 2
 
 // calcula o saldo total de vitórias com base no número de vitórias e derrotas
 function rank(vitorias, derrotas) {
